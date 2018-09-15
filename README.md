@@ -14,12 +14,10 @@ Lab 2: [Docker build](labs/02-docker-build/)
 
 Lab 3: [Deploy Microservices with Compose](labs/03-compose) 
 
-Lab 4: [Deploy Kubernetes Pods](labs/04-pods)
-
-Lab 5: [Deploy Multi-container application](labs/05-multi)
-
 ## Day 2
 
 ### Labs 
 
-Lab: [Hands on with Istio](labs/07-istio1)
+Lab 4: [Deploy Kubernetes Pods](labs/04-pods)
+
+Lab 5: [Deploy Multi-container application](labs/05-multi)
