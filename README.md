@@ -1,4 +1,4 @@
-# Fundamentals of Istio course page 
+# Fundamentals of Microservices course page 
 
 This site contains the content and labs for the Fundamentals of Istio course. 
 
