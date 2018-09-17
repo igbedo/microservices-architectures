@@ -23,4 +23,4 @@ Lab 4: [https://github.com/plusn-nuri/microservice-basics]
 
 Lab 5: [Deploy Kubernetes Pods](labs/04-pods)
 
-Lab 6: [Deploy Multi-container application](labs/06-multi)
+Lab 6: [Deploy Multi-container application](labs/05-multi)
