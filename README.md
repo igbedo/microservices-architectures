@@ -19,7 +19,7 @@ Lab 3: [Deploy Microservices with Compose](labs/03-compose)
 ## Day 2
 
 ### Labs 
-Lab 4: [https://github.com/plusn-nuri/microservice-basics]
+Lab 4: https://github.com/plusn-nuri/microservice-basics
 
 Lab 5: [Deploy Kubernetes Pods](labs/04-pods)
 
