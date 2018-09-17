@@ -21,6 +21,6 @@ Lab 3: [Deploy Microservices with Compose](labs/03-compose)
 ### Labs 
 Lab 4: [https://github.com/plusn-nuri/microservice-basics]
 
-Lab 5: [Deploy Kubernetes Pods](labs/05-pods)
+Lab 5: [Deploy Kubernetes Pods](labs/04-pods)
 
 Lab 6: [Deploy Multi-container application](labs/06-multi)
