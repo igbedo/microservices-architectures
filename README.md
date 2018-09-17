@@ -24,3 +24,4 @@ Lab 4: https://github.com/plusn-nuri/microservice-basics
 Lab 5: [Deploy Kubernetes Pods](labs/04-pods)
 
 Lab 6: [Deploy Multi-container application](labs/05-multi)
+Lab 7: API Gateway https://www.dropbox.com/sh/grlgq6w4ouevyhu/AACyLxb3PBDX8_R_RSwoySZFa/API%20Gateway?dl=0&preview=Microservices+-+API+Gateway.md&subfolder_nav_tracking=1
