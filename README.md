@@ -13,6 +13,7 @@ Lab 1: [Install Docker locally](labs/01-docker-daemon)
 Lab 2: [Docker build](labs/02-docker-build/)   
 
 Lab 3: [Deploy Microservices with Compose](labs/03-compose) 
+Lab 4: [Deploy Microservices with Compose](labs/03-compose) 
 
 ## Day 2
 
