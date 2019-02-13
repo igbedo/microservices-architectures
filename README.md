@@ -1,6 +1,6 @@
 # Fundamentals of Microservices course page 
 
-This site contains the content and labs for the Fundamentals of Istio course. 
+This site contains the content and labs for the Microservices Application Architecture
 
 ## [Course Content](http://bit.ly/fun-istio-slides)
 
