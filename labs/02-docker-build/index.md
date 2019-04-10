@@ -81,6 +81,12 @@ public class Main
 ``` 
 
 Now execute the following to compile the app.
+--------Windows Users only ---
+1.     When running the commands on Windows, it is better to use PowerShell
+
+2.     Certain docker run commands didn’t run in PowerShell and had to be run in Command prompt and in those cases, the $PWD portion of the command has to be replaced with %cd% before running it from the Command prompt.
+-----------------
+
 ```
 docker run --rm -v $PWD/app:/app -w /app demo/oracle-java:8 javac Main.java
 ```
