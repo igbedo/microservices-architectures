@@ -106,7 +106,7 @@ echo "3.6.0" >> web/.python-version
 
 Create a `Dockerfile	`  in the web directory 
 ```
-FROM python:3.6.2-slim
+FROM python:3.6.2
 RUN groupadd flaskgroup && useradd -m -g flaskgroup -s /bin/bash flask
 RUN echo "flask ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 RUN mkdir -p /home/flask/app/web
